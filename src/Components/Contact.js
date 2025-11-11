@@ -18,9 +18,9 @@ const Contact = () => {
         transition={{ duration: 1.5 }}
         style={{ textAlign: "center", fontSize: "1.2rem" }}
       >
-        <p>Email: <span style={{ color: "#2dd4bf" }}>kalindu@example.com</span></p>
-        <p>Phone: <span style={{ color: "#7f5af0" }}>+94 77 123 4567</span></p>
-        <p>LinkedIn: <span style={{ color: "#2dd4bf", cursor: "pointer" }}>linkedin.com/in/kalindu</span></p>
+        <p>Email: <span style={{ color: "#2dd4bf" }}>kalinduworkkaushan@gmail.com</span></p>
+        <p>Phone: <span style={{ color: "#7f5af0" }}>+94 78 556 4341</span></p>
+        <p>LinkedIn: <span style={{ color: "#2dd4bf", cursor: "pointer" }}>www.linkedin.com/in/kalindu-kaushan</span></p>
       </motion.div>
     </section>
   );

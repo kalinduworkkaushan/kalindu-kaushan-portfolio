@@ -18,8 +18,8 @@ const About = () => {
         transition={{ duration: 1.5 }}
         style={{ maxWidth: "800px", margin: "0 auto", fontSize: "1.2rem", lineHeight: "1.6rem", textAlign: "center" }}
       >
-        I’m a frontend developer passionate about building futuristic, interactive web experiences.
-        I specialize in React, animations, and modern UI design that feels alive and engaging.
+        I’m a frontend developer passionate about building interactive web experiences.
+        I specialize in React and Python.
       </motion.p>
     </section>
   );
